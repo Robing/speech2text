@@ -1,4 +1,6 @@
 = Speech2Text
+原项目用ruby实现调用Chrome的语音识别接口进行语音识别，我用PHP重写了一个(见:https://github.com/xiaobozi/speech2text/blob/master/speech2text.php)，方便大家阅读
+
 
 Using the power of ffmpeg/flac/Google and ruby here is a simple interface to play with to convert speech to text.
 
